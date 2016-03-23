@@ -6,6 +6,8 @@ This converts [KML](https://developers.google.com/kml/documentation/) & [GPX](ht
 to
 [GeoJSON](http://www.geojson.org/), in a browser or with [nodejs](http://nodejs.org/).
 
+aka Google Earth to a better standard.
+
 It is
 
 * Dependency-free
